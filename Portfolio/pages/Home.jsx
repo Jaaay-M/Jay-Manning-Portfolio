@@ -20,13 +20,11 @@ export const Home = () => {
                     <ProjectCard 
                         link="/GrapheneTrace"
                         title="Graphene Trace Sensore Mat"
-                        desc="An ASP.NET MVC web application for visualizing data from Graphene Trace Sensore Mats."
                         img={GrapheneTraceLogo}
                     />
                     <ProjectCard 
                         link="/CarDealership"
                         title="Car Dealership Management System"
-                        desc="A terminal-based application written in C to manage car dealership stock and sales."
                         img={CarDealershipLogo}
                     />
                 </div>

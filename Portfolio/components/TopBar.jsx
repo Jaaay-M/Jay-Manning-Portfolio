@@ -5,18 +5,8 @@ export function TopBar() {
     <>
       <header className="topbar">
         <div className="logo">Jay Manning</div>
-        <div className="burger" onClick={() => {
-          document.getElementById("menu").classList.toggle("open");
-        }}>
-          ☰
-        </div>
+        <Link to="/" className="home">⌂</Link>
       </header>
-
-      <nav className="menu" id="menu">
-        <Link to="/">Home</Link>
-        <Link to="/CarDealership">Car Dealership</Link>
-        <Link to="/GrapheneTrace">Graphene Trace</Link>
-      </nav>
     </>
   );
 }
