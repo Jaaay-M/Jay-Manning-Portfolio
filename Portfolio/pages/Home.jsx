@@ -20,6 +20,7 @@ export const Home = () => {
                     <ProjectCard 
                         link="/GrapheneTrace"
                         title="Graphene Trace Sensore Mat"
+                        brief="YAPD: Yet Another Pressure Distribution System - A cost-effective pressure sensing mat using graphene-based sensors for real-time pressure mapping."
                         img={GrapheneTraceLogo}
                     />
                     <ProjectCard 
