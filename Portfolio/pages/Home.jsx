@@ -7,13 +7,14 @@ export const Home = () => {
         <div>
             <header>
                 <div className="container">
-                    <h1>Welcome To my Portfolio</h1>
+                    <h1>Computer Science Student</h1>
+                    <h2>Aspiring Software Engineering Looking for work</h2>
                 </div>
             </header>
 
             <main>
                 <div className="container">
-                    <h2>My Projects:</h2>
+                <h2>My Projects:</h2>
 
                 <div className="card-grid">
                     <ProjectCard 
@@ -29,7 +30,12 @@ export const Home = () => {
                         img={CarDealershipLogo}
                     />
                 </div>
-                    
+
+                <h2>Skills</h2>
+                    <h3>Programming</h3>
+                    <p>Proficient in C, C#, and Java</p>
+                    <h3>Agile Methodologies</h3>
+                    <p>Experience working in Agile development environments</p>
                 </div>
             </main>
         </div>
