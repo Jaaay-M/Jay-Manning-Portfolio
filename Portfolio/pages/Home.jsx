@@ -20,7 +20,7 @@ export const Home = () => {
                     <ProjectCard 
                         link="/GrapheneTrace"
                         title="Graphene Trace Sensore Mat"
-                        brief="YAPD: Yet Another Pressure Distribution System - A cost-effective pressure sensing mat using graphene-based sensors for real-time pressure mapping."
+                        brief="A cost-effective pressure sensing mat using graphene-based sensors for real-time pressure mapping."
                         img={GrapheneTraceLogo}
                     />
                     <ProjectCard 
@@ -31,10 +31,12 @@ export const Home = () => {
                 </div>
 
                 <h2>Skills</h2>
-                    <h3>Programming</h3>
-                    <p>Proficient in C, C#, and Java</p>
-                    <h3>Agile Methodologies</h3>
-                    <p>Experience working in Agile development environments</p>
+                    <h3>Programming Languages</h3>
+                    <p>C, C++, C#, Java, JavaScript, SQL, CSS</p>
+                    <h3>Tools</h3>
+                    <p>Git, Github, Visual Studio Code, Cisco Packet Tracer, Bash</p>
+                    <h3>Concepts</h3>
+                    <p>Object-Oriented Programming, Data Structures, Algorithms, Agile Development, SDLC, Networking, Operating Systems</p>
                 </div>
             </main>
         </div>

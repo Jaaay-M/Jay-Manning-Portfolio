@@ -25,7 +25,6 @@ export const GrapheneTrace = () => {
                     <ul>
                         <li>ASP.NET MVC Framework</li>
                         <li>C# Programming Language</li>
-                        <li>JavaScript and Charting Libraries for data visualization</li>
                         <li>SQL Server for database management</li>
                     </ul>
                 </div>
