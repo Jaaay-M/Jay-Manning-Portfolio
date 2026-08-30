@@ -28,6 +28,12 @@ export const Home = () => {
                         title="Car Dealership Management System"
                         img={CarDealershipLogo}
                     />
+                    <ProjectCard
+                        link="/DoorMotionSensor"
+                        title="Door Motion Sensor"
+                        brief="A motion sensor for detecting movement near a door."
+                        img={GrapheneTraceLogo}
+                    />
                 </div>
 
                 <h2>Skills</h2>
